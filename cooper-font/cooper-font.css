@@ -1,14 +1,20 @@
-@font-face{ font-family: "cooper-font"; XXX; font-style: normal;src:url("CooperHewitt-Bold.woff");}
-@font-face{ font-family: "cooper-font"; XXX; font-style: normal;src:url("CooperHewitt-BoldItalic.woff");}
-@font-face{ font-family: "cooper-font"; XXX; font-style: normal;src:url("CooperHewitt-Book.woff");}
-@font-face{ font-family: "cooper-font"; XXX; font-style: normal;src:url("CooperHewitt-BookItalic.woff");}
-@font-face{ font-family: "cooper-font"; XXX; font-style: normal;src:url("CooperHewitt-Heavy.woff");}
-@font-face{ font-family: "cooper-font"; XXX; font-style: normal;src:url("CooperHewitt-HeavyItalic.woff");}
-@font-face{ font-family: "cooper-font"; XXX; font-style: normal;src:url("CooperHewitt-Light.woff");}
-@font-face{ font-family: "cooper-font"; XXX; font-style: normal;src:url("CooperHewitt-LightItalic.woff");}
-@font-face{ font-family: "cooper-font"; XXX; font-style: normal;src:url("CooperHewitt-Medium.woff");}
-@font-face{ font-family: "cooper-font"; XXX; font-style: normal;src:url("CooperHewitt-MediumItalic.woff");}
-@font-face{ font-family: "cooper-font"; XXX; font-style: normal;src:url("CooperHewitt-Semibold.woff");}
-@font-face{ font-family: "cooper-font"; XXX; font-style: normal;src:url("CooperHewitt-SemiboldItalic.woff");}
-@font-face{ font-family: "cooper-font"; XXX; font-style: normal;src:url("CooperHewitt-Thin.woff");}
-@font-face{ font-family: "cooper-font"; XXX; font-style: normal;src:url("CooperHewitt-ThinItalic.woff");}
+@font-face{ font-family: "cooper-font"; 200; font-style: normal; src:url("CooperHewitt-Thin.woff");}
+@font-face{ font-family: "cooper-font"; 200; font-style: italic; src:url("CooperHewitt-ThinItalic.woff");}
+
+@font-face{ font-family: "cooper-font"; 300; font-style: normal; src:url("CooperHewitt-Light.woff");}
+@font-face{ font-family: "cooper-font"; 300; font-style: italic; src:url("CooperHewitt-LightItalic.woff");}
+
+@font-face{ font-family: "cooper-font"; 400; font-style: normal; src:url("CooperHewitt-Book.woff");}
+@font-face{ font-family: "cooper-font"; 400; font-style: normal; src:url("CooperHewitt-BookItalic.woff");}
+
+@font-face{ font-family: "cooper-font"; 500; font-style: normal; src:url("CooperHewitt-Medium.woff");}
+@font-face{ font-family: "cooper-font"; 500; font-style: italic; src:url("CooperHewitt-MediumItalic.woff");}
+
+@font-face{ font-family: "cooper-font"; 600; font-style: normal; src:url("CooperHewitt-Semibold.woff");}
+@font-face{ font-family: "cooper-font"; 600; font-style: italic; src:url("CooperHewitt-SemiboldItalic.woff");}
+
+@font-face{ font-family: "cooper-font"; 700; font-style: normal; src:url("CooperHewitt-Bold.woff");}
+@font-face{ font-family: "cooper-font"; 700; font-style: italic; src:url("CooperHewitt-BoldItalic.woff");}
+
+@font-face{ font-family: "cooper-font"; 800; font-style: normal; src:url("CooperHewitt-Heavy.woff");}
+@font-face{ font-family: "cooper-font"; 800; font-style: italic; src:url("CooperHewitt-HeavyItalic.woff");}
